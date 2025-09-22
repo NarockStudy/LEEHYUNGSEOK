@@ -20,7 +20,7 @@
 - 비숍
 - Gaaaaaaaaaarden
 
-## week 5
+## week 5 (미완)
 - 열쇠
 - 벽 부수고 이동하기 3
 - 백조의 호수
