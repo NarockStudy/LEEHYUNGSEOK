@@ -20,7 +20,12 @@
 - 비숍
 - Gaaaaaaaaaarden
 
-## week 5
+## week 5 (미완)
 - 열쇠
 - 벽 부수고 이동하기 3
 - 백조의 호수
+
+## week 6 (미완 : 예비군이슈)
+- 별 찍기 - 11
+- 별 찍기 - 10
+- Philosopher's Walk
